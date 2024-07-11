@@ -1,0 +1,11 @@
+header,section,footer {
+    width: 100%;
+}
+
+footer {
+    margin-top: 84px;
+    background-color: #EBEBEB;
+    padding: 0 0 10px 0;
+
+}
+
